@@ -21,3 +21,7 @@ After resizing any object, always apply the scale to maintain correct measuremen
 <img src="./images/05-item-transform.png" width="350"/>
 
 <img src="./images/06-object-apply-scale.png" width="600"/>
+
+and visualize edge lengths as overlays in viewport edit mode.
+
+<img src="./images/07-viewport-overlay-edge-length.png"/>
