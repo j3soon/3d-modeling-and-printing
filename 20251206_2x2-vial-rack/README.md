@@ -1,6 +1,6 @@
-# 2x2 Vial Rack (for vials with 2.2cm diameter)
+# 2x2 Vial Rack (for vials with 2.1cm diameter)
 
-A tiny 2x2 vial rack with 2.3cm diameter holes, designed to hold up to 4 vials, each with a 5cm height and 2.2cm diameter (cylindrical body).
+A tiny 2x2 vial rack with 2.3cm diameter holes, designed to hold up to 4 vials, each with a 5cm height and 2.1cm diameter (cylindrical body).
 
 If using STL, make sure to repair geometry in the slicer before printing.
 
